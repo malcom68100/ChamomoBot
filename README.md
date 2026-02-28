@@ -1,4 +1,4 @@
-# 🤖 Shampis Trial Key Bot
+# 🤖 Chamomo Trial Key Bot
 
 Discord bot designed for automatic trial key distribution for Black Ops 7. 
 
